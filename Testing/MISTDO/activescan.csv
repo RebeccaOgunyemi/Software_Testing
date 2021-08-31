@@ -1,0 +1,1001 @@
+Id,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+4680,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo/,404,Not Found,3,99,0
+4681,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo/favicon.png/,404,Not Found,3,99,0
+4682,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/forgotpassword/,200,OK,17,166,6243
+4683,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/forgotpasswordconfirmation/,200,OK,8,113,4986
+4684,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer,302,Found,6,161,0
+4685,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/login/,200,OK,16,299,7357
+4686,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainees/registernow/,200,OK,22,166,17866
+4687,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,4,99,0
+4688,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/assets/,404,Not Found,3,99,0
+4689,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,3,99,0
+4690,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,4,99,0
+4691,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/assets/images/,404,Not Found,3,99,0
+4692,Tue Aug 31 13:31:33 WAT 2021,Tue Aug 31 13:31:33 WAT 2021,GET,https://localhost:5001/trainer/,200,OK,3,113,17840
+4693,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo/,404,Not Found,4,99,0
+4694,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo/favicon.png/,404,Not Found,3,99,0
+4695,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/forgotpasswordconfirmation/,200,OK,7,113,4985
+4696,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/forgotpassword/,200,OK,9,166,6245
+4697,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/idcheck/,405,Method Not Allowed,2,121,0
+4698,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/login/,200,OK,5,299,7954
+4699,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/register.html/,404,Not Found,2,99,0
+4700,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,GET,https://localhost:5001/trainer/ogispcheck/,200,OK,5,299,7979
+4701,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,14,166,7665
+4702,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,15,166,7665
+4703,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,47,132,36544
+4704,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:34 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4705,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,8,166,9570
+4706,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,17,166,7396
+4707,Tue Aug 31 13:31:34 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,253,132,27944
+4708,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,4,101,0
+4709,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,248,132,51055
+4710,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,5,101,0
+4711,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,26,166,8440
+4712,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,28,166,20139
+4713,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,6,101,0
+4714,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,20139
+4715,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,20139
+4716,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,24474
+4717,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,20139
+4718,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,20249
+4719,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,20139
+4720,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+4721,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,20139
+4722,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+4723,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18180
+4724,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+4725,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,4,166,10167
+4726,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,11,166,7993
+4727,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,272,132,50577
+4728,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:35 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+4729,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,4,99,0
+4730,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,2,99,0
+4731,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,2,99,0
+4732,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,3,99,0
+4733,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,90,99,0
+4734,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,8,99,0
+4735,Tue Aug 31 13:31:35 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,POST,https://localhost:5001/trainer/idcheck,500,Internal Server Error,1183,132,26034
+4736,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:36 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,4,99,0
+4737,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,5,99,0
+4738,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,4,99,0
+4739,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,3,99,0
+4740,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,3,99,0
+4741,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,3,99,0
+4742,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,3,99,0
+4743,Tue Aug 31 13:31:37 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,3,99,0
+4744,Tue Aug 31 13:31:36 WAT 2021,Tue Aug 31 13:31:37 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1167,299,8069
+4745,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,3,99,0
+4746,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,3,99,0
+4747,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,2,99,0
+4748,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,3,99,0
+4749,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,2,99,0
+4750,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/css,404,Not Found,2,99,0
+4751,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,5,99,0
+4752,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,5,99,0
+4753,Tue Aug 31 13:31:38 WAT 2021,Tue Aug 31 13:31:38 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,5,99,0
+4754,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,5,99,0
+4755,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,5,99,0
+4756,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,5,99,0
+4757,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/home,200,OK,15,113,17840
+4758,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/images,404,Not Found,4,99,0
+4759,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/img,404,Not Found,3,99,0
+4760,Tue Aug 31 13:31:39 WAT 2021,Tue Aug 31 13:31:39 WAT 2021,GET,https://localhost:5001/js,404,Not Found,6,99,0
+4761,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,2,99,0
+4762,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/js/site.js?v=ikwIyRiFsnOwrIHUOZsZRstKhgYLnNuotwfhDJuNlrJQwPSkvlcbIYJnuEqgkWBUMaAqyRqvfljuxJuDvUIopEoppgJEsoEpqyCnuuBvXFPGfXOMBnDTymdMekALnLhRSCkKImKuhltSTfabZVhaPkhEUuSmdygjexNNdSiuEvFKgriIDEELFmfVPbPxqCpNvumcsQXBlRYZyhGwrICDvnVIrOrKuXfehwRiVwWufFKCVgfghUMvDFVHlJPmlSUkBkSInHESdgHaZNDdcnolkhMWoDqnEvBGHBSsaFjvwvdDFSBDhDGGXSFiVqHeHKEnsyOdPUlGlbBtIDkoumTRWHaVNUgHqFYaJfTtkNEEDgdoCsHifHIEuMsvesgcMbiDoSwSMBbKfsJpvuehJRflNEtHcuMtvulUikITZgSTJkwfnoFqmByBRTGbSpHFMTLyQXLcPIXViDlJEacFyevTmTBSRtXlQFGKhUZgqgAqWDXLokfUlXoVaaiBOTDfhAEEJcygREGPUCMBCcoWMvLFMxQZkkmwjNsYtROtgbWFIGsMiWDiYTiMYfVkTOZNwKncprrAIEpEwpRafSxZYgpYthxOTJxhrwvUJxjKBGPLrAyCpbECWubRPTjrTxxbgZOgLXripZlkPnyYdQfgGNkDagGTLMijRdCVougwBRonpjdwnEFCnlTaralQeUtgdTfCMWrvdHMlZoKOMnrjfMNvvhvIsCXfpQChVnCfrUQvbNcXUkCEeVsALHVJQtfFKxUTVChVSyOAxbXowYTJuqPnjtBunJhQPXDGFIapxYrFjWcdcnDfYVelJGwBNOdnlShDiowDQRtnbDpNFxMCWsFsSGcfneINkGlxgFPbVtGquwsDaHjQKGZrifNpTeDeCmFHJYPucRerigrEcJrjNpyPVIggVqmKHmjyLkWUFMeFOucCvtBdQiuEbTCFjGUkPHkqSdfgLyByQHWEokcsZYuWGpmqXvFBbjSryDpJkJoBsWXMOAZWkIoWYSerFsVTcuInfAGMlLLYDbEtVQDqDBnwTEoTehhfxmOPbLUHTcFXgVoblOJtahpIOpIKpnAvZKPJSLTkhGOTFjmhdiJUFCFhVZNhJMGjEyYASvxQIQWFTKDIDmwgVyHfBPKFDfJyPXJNNLTqYTxKvdZPgjIGEphXyCIkovGreaZGdBfPyYivQNSLDwrXUQfPSSrUwTbbacMnFOTbpsPkAjqMLwiGJQrcbZDwEwwuCJDqpBASoHRkyWWoEXZTRXGEeoXrqPnDExHlMyJKuDEGpeQHwSwnxeZZZyKJeIqoGFTrmbNipedieClblofJUnyMbJCVudDeHELaEQWZvshhDZaEsPXXixFMqSNGyBLDsVKbdEcqAKQEYiIDerPdZOhenowbYGxcaWsqedBkgybFXLFTlQIlOWOOELXAkHWLyWxsrOdglbcUZmxEWVYTxuPJkBHYWwKKChEpUaOgJvCxrteJpytQZrlvXOtMwZBMwcqpfOvLArNtKeoPIwyNqurLPWADTYwXJopbbumiOcvcyDIohCvLyrRYGMrwOgexJMNDgmrtclyiDRfVLQuQCUwZQcOUhDJeNabxEGZkGRrTNxeigLkIDnCqTsygYBQWeNpLmfUPAOZhfPnlvdjUtnfgNWSYYMMFKoNcACgvKVdRGhXSbTZdDAWrBMLnDwhJvoRVtlfRjeXgithKLXpvYYUbVOixSNAgNPyPQYPbdpDvEXuBJjUhSPQHTWfjwyfpSsOGWqbyBgiFXLsRUOQScFmPRndcTVOoTlCuEYWZCYBGJDBPThiToJgalfAMdDhToKlicGmMAEcCBTjrkGXYTgWXMuSFluJeQdnTsfPlMCZrIUiYdcpOCxamWTFEXvwGHToUEVNLgDVLCuZdRZnOimkZJRnNNZgALdJQnNqBvMAVBmZFgsxeDgpxUircOGqJAWNVIynTrtFVsGsFnhegtmIyIpmlSZpiEvKqFCnYgNUgBsgJvqRNsKdiDUlPeQsYoumJcMhWyrLBPSWcadbqRhvwsgrneaVoKJCcorGfHCCGCgTgAJmPgBbaerZnKIsKEEIlXPevYJiJJAwHdschreJt,200,OK,4,224,35
+4763,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,3,99,0
+4764,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,2,99,0
+4765,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,2,99,0
+4766,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,2,99,0
+4767,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,2,99,0
+4768,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,2,99,0
+4769,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,2,99,0
+4770,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,2,99,0
+4771,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+4772,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,5,99,0
+4773,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,6,99,0
+4774,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,3,99,0
+4775,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=NuLAdudOjINBvbUddYvKfLrUbMRLvprXtIVWFaVuTDyFCxiFiGZnsQwnGybZaKHWSuIiEmKEHWLEsUJnObWLcoJJfhNZxBiSqQQqJCSdCMPWLiNocrjUurRODeigwUTJNlBSghULioXcnkPoKuBYUpUXxAouNVsIUidwkaZgtjKvAnRLljmxIEqpwrBKwvPVJTJTywbYwGnHESXgqjbQrgqousBjcdtPIvfUnMuynbrIaITRCSEafifcOveMqOFHwZfGFiZjayKcNpwqLVZXMoQRBfxWKyFxQiPasRbTfQDKKjmrhBCtmUwEOnpXybhFXicBPUmQAaorneJZnxeCZTLAOmiYageVDpsLHtosfnJnGHntaKPioaMbeWjdgwpoOrDZEVxYUsXxhpdQjmxleVeNdveNsXIYYwEmAdneDnPZjnsbCMZSxvmuchRaXfjQDIidsdmTxhHCiRlJFJHLEXZVNYkZuiVPhlZgisZZMmffrciEkCSTcnWyuMlWcFpBGlCUBohXBFMuATRUQusSiDQUmHisKUocvmImbxgOEixgfErpPRgyPdjjpmEjokLnaXEsMbOjqXgAHmVpMcexFZCvJmxWfwuSqbXgFeOhDVmOHUbQJHbaRIebLsZNoYLHWNWAMyLsLEgVAHobTnPKvhDBWXcyVYBRZGUXagUWTmGoLmxXrWHOoLcNWTIuZWrubYxEZgKEsbYtyZeqitoEAIZkQGHohQqBBZpttlkPwyTkucbsLmswEwJHfsXsWnrMAQKvaBSfOTTghcoullVlNykmhXSCSdvoNPSwjdKKHOMhNJeiOCGtELjKHFUqCvCubAZPdSiCSOOsGmheaAfDClbXnHpxNVCelFowfDjyloBZdhbCZnHPGQrxtndnQlYvFwZgSrKSkRymbQsrxoCDNtLTcIcTbiWMCvdbMKkXqOhOMeFJiKHwXFLevsKoiKGiuPdulpchcfkWffhbrSiPDAUctcUEEprijqtHjbhsKbUvnoQhnkkQohIZBcIfnEUKNslGUIlFdlaYApYMvBWyQMlFmcrfXiQiGYplSNLMZpBfECAdZHVjnPMAKqkwCJEeYUdNVTCpYDfcCsnNinkOpCFWlORwUnrrcotGbgtQEqPLaSHsyIODXwOaTMTJssduOeSQRJZOgPtYTylwQetwiboPJEMpfHwsAAcKVAxiFUHjyhEJQlhopTdfGiCSyeMVSDPLaEghPIdRYVoriCKOnIPxPNFZdHgRmWLIqgOAcSlAVeirlqRuTnnWSApWnGPVACPAMhuERLatPUNeZjSEBvdBKVOdYuyMyusDsXFJFfDAbbTyspepjaaFfGwkuBFDnKeHWfrsCLjGCIWIqoLkOpaefLjTUoLZyTjRuMeXjcEqlcnTuXJUTcyvOkYgcrBpIbVQoootDQwundbAVfFpKLFZKnGigDsBmMNgumvynXmAJmWlnWeqFHlDpxCMCWjEdtEnLDUjeJJcCNwjqhwvRjevwuCRvbtqOcceHbRRMKLXumjegueeQmqlZuKYsQPklBjouisBoFSfQPWhVhvAFlXvgnuOmAajAdHZTXwXPckjaVtFJBmGLKqqHcFBOBBRHIMxCmZugBnMksyFxEiaoubUxNiUtMltvVXXiEVsxBfyYflKvlAtxUpBGsQwChHGiuplWMLfDrqgEKQkNYqqjMvPbMnHOnMGyRROvkLQVGKJRbiKgiXZrMWDFkLcAtNXjOYNbRCHkkfRFChwMeaLvSxSXiovRtvotLorPiCIpJnyfCivgeHCMQPWReUlEjLXDMhStosnmQuRnZvsjZmEMktyyXyduamCgdiVfWXWWiuCeETMxrvuHRGGCGUsEqOWosNeMrvVDKgyoGEORIBcIGNLNLTqXPCbnLUONHeCYBmOfxtUVNrZLGJqRwukYQNBNOEeLpsExaNhrDRJtUZsDKvLmfVqcysOWGyvlTJOXQPrcqohAIvLBapLRxiCMUStqTWgMbwEokrLtYZNUKEWIgEajorjlbmpuraJLatuYjVJgJKuQKNShySXjppMHsYdtxeFhhSonaipLFIAkyNyWVZAcsJRBlKWTMhVdEsVlhLIXeKnZuvY,200,OK,4,226,7037
+4776,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/trainees,302,Found,3,162,0
+4777,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,3,99,0
+4778,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,2,99,0
+4779,Tue Aug 31 13:31:40 WAT 2021,Tue Aug 31 13:31:40 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,3,99,0
+4780,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,GET,https://localhost:5001/trainer,302,Found,6,161,0
+4781,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,5,99,0
+4782,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,4,99,0
+4783,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,3,99,0
+4784,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,17,166,7665
+4785,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,17,166,7665
+4786,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,11,166,7665
+4787,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,11,166,7665
+4788,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,61,132,23961
+4789,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,9,101,0
+4790,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,12,166,7665
+4791,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4792,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,6,101,0
+4793,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,11,166,7665
+4794,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,18,166,7473
+4795,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,16,166,7558
+4796,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,14,166,7670
+4797,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,13,166,7396
+4798,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,10,166,7396
+4799,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,81,132,27943
+4800,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,7,101,0
+4801,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,11,166,7396
+4802,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:41 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,5,101,0
+4803,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,71,101,0
+4804,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,82,166,18042
+4805,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,11,166,18127
+4806,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,41,166,18239
+4807,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+4808,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18127
+4809,Tue Aug 31 13:31:41 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,269,132,44763
+4810,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18239
+4811,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+4812,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+4813,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18042
+4814,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,3,101,0
+4815,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18127
+4816,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18239
+4817,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18183
+4818,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18438
+4819,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18774
+4820,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,6,166,6343
+4821,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+4822,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,4,166,6428
+4823,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6540
+4824,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18127
+4825,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,3,101,0
+4826,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18239
+4827,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,3,101,0
+4828,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,3,101,0
+4829,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18152
+4830,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18237
+4831,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18349
+4832,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+4833,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18127
+4834,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18239
+4835,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+4836,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18042
+4837,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+4838,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18042
+4839,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18127
+4840,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18239
+4841,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+4842,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18020
+4843,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18180
+4844,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+4845,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18180
+4846,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18180
+4847,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,3,101,0
+4848,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+4849,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,3,101,0
+4850,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,6,166,8070
+4851,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,7,166,8155
+4852,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8267
+4853,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,11,166,7993
+4854,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,10,166,7993
+4855,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+4856,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,250,132,44285
+4857,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+4858,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+4859,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:42 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+4860,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,6,99,0
+4861,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,5,99,0
+4862,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,5,99,0
+4863,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,4,99,0
+4864,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,3,99,0
+4865,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,3,99,0
+4866,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,2,99,0
+4867,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,3,99,0
+4868,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,6,99,0
+4869,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,5,99,0
+4870,Tue Aug 31 13:31:43 WAT 2021,Tue Aug 31 13:31:43 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,3,99,0
+4871,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,3,99,0
+4872,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,2,99,0
+4873,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,4,99,0
+4874,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,3,99,0
+4875,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,3,99,0
+4876,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,3,99,0
+4877,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,3,99,0
+4878,Tue Aug 31 13:31:44 WAT 2021,Tue Aug 31 13:31:44 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,2,99,0
+4879,Tue Aug 31 13:31:45 WAT 2021,Tue Aug 31 13:31:45 WAT 2021,GET,https://localhost:5001/css,404,Not Found,4,99,0
+4880,Tue Aug 31 13:31:46 WAT 2021,Tue Aug 31 13:31:46 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,5,99,0
+4881,Tue Aug 31 13:31:46 WAT 2021,Tue Aug 31 13:31:46 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,6,99,0
+4882,Tue Aug 31 13:31:46 WAT 2021,Tue Aug 31 13:31:46 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,3,99,0
+4883,Tue Aug 31 13:31:42 WAT 2021,Tue Aug 31 13:31:47 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,4834,299,8069
+4884,Tue Aug 31 13:31:47 WAT 2021,Tue Aug 31 13:31:47 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,5,99,0
+4885,Tue Aug 31 13:31:47 WAT 2021,Tue Aug 31 13:31:47 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,5,99,0
+4886,Tue Aug 31 13:31:47 WAT 2021,Tue Aug 31 13:31:47 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,2,99,0
+4887,Tue Aug 31 13:31:48 WAT 2021,Tue Aug 31 13:31:48 WAT 2021,GET,https://localhost:5001/home,200,OK,9,113,17840
+4888,Tue Aug 31 13:31:47 WAT 2021,Tue Aug 31 13:31:49 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1785,299,8069
+4889,Tue Aug 31 13:31:49 WAT 2021,Tue Aug 31 13:31:49 WAT 2021,GET,https://localhost:5001/images,404,Not Found,3,99,0
+4890,Tue Aug 31 13:31:49 WAT 2021,Tue Aug 31 13:31:49 WAT 2021,GET,https://localhost:5001/img,404,Not Found,3,99,0
+4891,Tue Aug 31 13:31:50 WAT 2021,Tue Aug 31 13:31:50 WAT 2021,GET,https://localhost:5001/js,404,Not Found,5,99,0
+4892,Tue Aug 31 13:31:49 WAT 2021,Tue Aug 31 13:31:50 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1628,299,8069
+4893,Tue Aug 31 13:31:50 WAT 2021,Tue Aug 31 13:31:51 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1061,299,8069
+4894,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/js/site.js?v=ZAP,200,OK,3,224,35
+4895,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/js/site.js?v=ZAP%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A,200,OK,4,224,35
+4896,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/js/site.js?v=ZAP+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A,200,OK,4,224,35
+4897,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,3,99,0
+4898,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,3,99,0
+4899,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,2,99,0
+4900,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,3,99,0
+4901,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,3,99,0
+4902,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,4,99,0
+4903,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,3,99,0
+4904,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,3,99,0
+4905,Tue Aug 31 13:31:51 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1179,299,8069
+4906,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:52 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,3,99,0
+4907,Tue Aug 31 13:31:53 WAT 2021,Tue Aug 31 13:31:53 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+4908,Tue Aug 31 13:31:52 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1280,299,8069
+4909,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,4,99,0
+4910,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,5,99,0
+4911,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,6,99,0
+4912,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=ZAP,200,OK,4,226,7037
+4913,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=ZAP%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A,200,OK,3,226,7037
+4914,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=ZAP+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A,200,OK,3,226,7037
+4915,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/trainees,302,Found,3,162,0
+4916,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,3,99,0
+4917,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,2,99,0
+4918,Tue Aug 31 13:31:54 WAT 2021,Tue Aug 31 13:31:54 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,3,99,0
+4919,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,GET,https://localhost:5001/trainer,302,Found,6,161,0
+4920,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,4,99,0
+4921,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,4,99,0
+4922,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,5,99,0
+4923,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,15,166,7665
+4924,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,15,166,7665
+4925,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,12,166,7665
+4926,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,15,166,7665
+4927,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,71,132,24273
+4928,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,13,166,7665
+4929,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,14,166,7665
+4930,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,14,166,7665
+4931,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,10,166,7665
+4932,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+4933,Tue Aug 31 13:31:55 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,54,132,24347
+4934,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,10,166,7665
+4935,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+4936,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,10,166,7665
+4937,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+4938,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,47,132,24353
+4939,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+4940,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,27,132,24327
+4941,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,72,132,24333
+4942,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,80,132,27943
+4943,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,39,132,24403
+4944,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,45,132,27943
+4945,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,39,132,24409
+4946,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4947,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4948,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4949,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4950,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4951,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,44,132,27943
+4952,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4953,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+4954,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7525
+4955,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,35,132,27943
+4956,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,7,166,7538
+4957,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7539
+4958,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,9,166,7533
+4959,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7534
+4960,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7548
+4961,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7549
+4962,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,40,132,27943
+4963,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,12,166,7396
+4964,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,19,166,7396
+4965,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,14,166,7396
+4966,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,20,166,7396
+4967,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,74,132,27943
+4968,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,25,166,7396
+4969,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,38,166,7396
+4970,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,11,166,7396
+4971,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,246,132,27943
+4972,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,32,101,0
+4973,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,5,101,0
+4974,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,4,101,0
+4975,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,11,101,0
+4976,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,4,101,0
+4977,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,4,101,0
+4978,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,5,101,0
+4979,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,258,132,44919
+4980,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,51,166,18094
+4981,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,11,166,18107
+4982,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18108
+4983,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18102
+4984,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:56 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18103
+4985,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18117
+4986,Tue Aug 31 13:31:56 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,247,132,44956
+4987,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,83,166,18118
+4988,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,191,166,18094
+4989,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18107
+4990,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,12,166,18108
+4991,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18102
+4992,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18103
+4993,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18117
+4994,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,324,132,44959
+4995,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18118
+4996,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,145,166,18094
+4997,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,91,166,18107
+4998,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,16,166,18108
+4999,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18102
+5000,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18103
+5001,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18117
+5002,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,279,132,44946
+5003,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18118
+5004,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,107,166,18339
+5005,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,109,166,18378
+5006,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18381
+5007,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,11,166,18363
+5008,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18366
+5009,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18408
+5010,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18411
+5011,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,265,132,44949
+5012,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:57 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18094
+5013,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,168,166,18107
+5014,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,34,166,18108
+5015,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,9,166,18102
+5016,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,9,166,18103
+5017,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18117
+5018,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18118
+5019,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18204
+5020,Tue Aug 31 13:31:57 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,250,132,44984
+5021,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18217
+5022,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,138,166,18218
+5023,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,66,166,18212
+5024,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,10,166,18213
+5025,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18227
+5026,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18228
+5027,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18094
+5028,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,251,132,44987
+5029,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,11,166,18107
+5030,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5031,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18108
+5032,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,3,101,0
+5033,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5034,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18102
+5035,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5036,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5037,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5038,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18103
+5039,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5040,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18117
+5041,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18118
+5042,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+5043,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5044,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+5045,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5046,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5047,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+5048,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+5049,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18094
+5050,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18107
+5051,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18108
+5052,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18102
+5053,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18103
+5054,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18117
+5055,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18118
+5056,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18020
+5057,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18020
+5058,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18020
+5059,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18020
+5060,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18020
+5061,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18020
+5062,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18020
+5063,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6395
+5064,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6408
+5065,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5066,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,6,166,6409
+5067,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5068,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6403
+5069,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18180
+5070,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,4,166,6404
+5071,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,6,166,6418
+5072,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18180
+5073,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6419
+5074,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18180
+5075,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5076,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,5,101,0
+5077,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,11,166,18180
+5078,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,6,101,0
+5079,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,12,166,18180
+5080,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,10,101,0
+5081,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,5,101,0
+5082,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5083,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,6,101,0
+5084,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,8,101,0
+5085,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,7,101,0
+5086,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5087,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,5,101,0
+5088,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,5,101,0
+5089,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+5090,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,5,101,0
+5091,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,6,166,8122
+5092,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,6,166,8135
+5093,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8136
+5094,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,4,166,8130
+5095,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8131
+5096,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8145
+5097,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,4,166,8146
+5098,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5099,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,10,166,7993
+5100,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5101,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5102,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5103,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5104,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:58 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5105,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:31:59 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,296,132,44441
+5106,Tue Aug 31 13:31:59 WAT 2021,Tue Aug 31 13:31:59 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,244,132,44478
+5107,Tue Aug 31 13:31:59 WAT 2021,Tue Aug 31 13:31:59 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,250,132,44481
+5108,Tue Aug 31 13:31:59 WAT 2021,Tue Aug 31 13:31:59 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,280,132,44468
+5109,Tue Aug 31 13:31:59 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,258,132,44471
+5110,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,248,132,44506
+5111,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,308,132,44509
+5112,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,3,101,0
+5113,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,3,101,0
+5114,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5115,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5116,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5117,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,6,101,0
+5118,Tue Aug 31 13:32:00 WAT 2021,Tue Aug 31 13:32:00 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,5,101,0
+5119,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,2,99,0
+5120,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,2,99,0
+5121,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,3,99,0
+5122,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,3,99,0
+5123,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,3,99,0
+5124,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,2,99,0
+5125,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,5,99,0
+5126,Tue Aug 31 13:31:58 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2832,299,8069
+5127,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:01 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,3,99,0
+5128,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,3,99,0
+5129,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,3,99,0
+5130,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,3,99,0
+5131,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,5,99,0
+5132,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,5,99,0
+5133,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,3,99,0
+5134,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,3,99,0
+5135,Tue Aug 31 13:32:02 WAT 2021,Tue Aug 31 13:32:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,4,99,0
+5136,Tue Aug 31 13:32:03 WAT 2021,Tue Aug 31 13:32:03 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,6,99,0
+5137,Tue Aug 31 13:32:03 WAT 2021,Tue Aug 31 13:32:03 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,6,99,0
+5138,Tue Aug 31 13:32:03 WAT 2021,Tue Aug 31 13:32:03 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,4,99,0
+5139,Tue Aug 31 13:32:03 WAT 2021,Tue Aug 31 13:32:03 WAT 2021,GET,https://localhost:5001/css,404,Not Found,5,99,0
+5140,Tue Aug 31 13:32:01 WAT 2021,Tue Aug 31 13:32:04 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2654,299,8069
+5141,Tue Aug 31 13:32:05 WAT 2021,Tue Aug 31 13:32:05 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,2,99,0
+5142,Tue Aug 31 13:32:05 WAT 2021,Tue Aug 31 13:32:05 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,3,99,0
+5143,Tue Aug 31 13:32:05 WAT 2021,Tue Aug 31 13:32:05 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,2,99,0
+5144,Tue Aug 31 13:32:04 WAT 2021,Tue Aug 31 13:32:05 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1605,299,8069
+5145,Tue Aug 31 13:32:06 WAT 2021,Tue Aug 31 13:32:06 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,3,99,0
+5146,Tue Aug 31 13:32:06 WAT 2021,Tue Aug 31 13:32:06 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,3,99,0
+5147,Tue Aug 31 13:32:06 WAT 2021,Tue Aug 31 13:32:06 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,5,99,0
+5148,Tue Aug 31 13:32:06 WAT 2021,Tue Aug 31 13:32:06 WAT 2021,GET,https://localhost:5001/home,200,OK,23,113,17840
+5149,Tue Aug 31 13:32:05 WAT 2021,Tue Aug 31 13:32:07 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1776,299,8069
+5150,Tue Aug 31 13:32:08 WAT 2021,Tue Aug 31 13:32:08 WAT 2021,GET,https://localhost:5001/images,404,Not Found,4,99,0
+5151,Tue Aug 31 13:32:08 WAT 2021,Tue Aug 31 13:32:08 WAT 2021,GET,https://localhost:5001/img,404,Not Found,6,99,0
+5152,Tue Aug 31 13:32:08 WAT 2021,Tue Aug 31 13:32:08 WAT 2021,GET,https://localhost:5001/js,404,Not Found,3,99,0
+5153,Tue Aug 31 13:32:07 WAT 2021,Tue Aug 31 13:32:09 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1532,299,8069
+5154,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=Set-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3,200,OK,4,224,35
+5155,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%0D%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3,200,OK,4,224,35
+5156,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%3F%0D%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3,200,OK,4,224,35
+5157,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3,200,OK,4,224,35
+5158,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%3F%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3,200,OK,4,224,35
+5159,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%0D%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3%0D%0A,200,OK,4,224,35
+5160,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/js/site.js?v=any%3F%0D%0ASet-cookie%3A+Tamper%3Db589a59c-4ca3-46f0-bfff-f69d4db62ff3%0D%0A,200,OK,5,224,35
+5161,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,3,99,0
+5162,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,2,99,0
+5163,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,3,99,0
+5164,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,2,99,0
+5165,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,3,99,0
+5166,Tue Aug 31 13:32:10 WAT 2021,Tue Aug 31 13:32:10 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,3,99,0
+5167,Tue Aug 31 13:32:11 WAT 2021,Tue Aug 31 13:32:11 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,4,99,0
+5168,Tue Aug 31 13:32:11 WAT 2021,Tue Aug 31 13:32:11 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,3,99,0
+5169,Tue Aug 31 13:32:11 WAT 2021,Tue Aug 31 13:32:11 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,3,99,0
+5170,Tue Aug 31 13:32:09 WAT 2021,Tue Aug 31 13:32:11 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2423,299,8069
+5171,Tue Aug 31 13:32:11 WAT 2021,Tue Aug 31 13:32:11 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+5172,Tue Aug 31 13:32:11 WAT 2021,Tue Aug 31 13:32:12 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1075,299,8069
+5173,Tue Aug 31 13:32:12 WAT 2021,Tue Aug 31 13:32:12 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,3,99,0
+5174,Tue Aug 31 13:32:12 WAT 2021,Tue Aug 31 13:32:12 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,2,99,0
+5175,Tue Aug 31 13:32:12 WAT 2021,Tue Aug 31 13:32:12 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,2,99,0
+5176,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=Set-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520,200,OK,2,226,7037
+5177,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%0D%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520,200,OK,3,226,7037
+5178,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%3F%0D%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520,200,OK,3,226,7037
+5179,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520,200,OK,3,226,7037
+5180,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%3F%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520,200,OK,2,226,7037
+5181,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%0D%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520%0D%0A,200,OK,3,226,7037
+5182,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=any%3F%0D%0ASet-cookie%3A+Tamper%3D2e187e45-3645-4fa1-89c4-ade3bb407520%0D%0A,200,OK,3,226,7037
+5183,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/trainees,302,Found,3,162,0
+5184,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,2,99,0
+5185,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,3,99,0
+5186,Tue Aug 31 13:32:13 WAT 2021,Tue Aug 31 13:32:13 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,3,99,0
+5187,Tue Aug 31 13:32:12 WAT 2021,Tue Aug 31 13:32:14 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1623,299,8069
+5188,Tue Aug 31 13:32:14 WAT 2021,Tue Aug 31 13:32:14 WAT 2021,GET,https://localhost:5001/trainer,302,Found,3,161,0
+5189,Tue Aug 31 13:32:14 WAT 2021,Tue Aug 31 13:32:14 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,3,99,0
+5190,Tue Aug 31 13:32:14 WAT 2021,Tue Aug 31 13:32:14 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,2,99,0
+5191,Tue Aug 31 13:32:14 WAT 2021,Tue Aug 31 13:32:14 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,2,99,0
+5192,Tue Aug 31 13:32:14 WAT 2021,Tue Aug 31 13:32:15 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1171,299,8069
+5193,Tue Aug 31 13:32:15 WAT 2021,Tue Aug 31 13:32:18 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2845,299,8069
+5194,Tue Aug 31 13:32:18 WAT 2021,Tue Aug 31 13:32:20 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1827,299,8069
+5195,Tue Aug 31 13:32:20 WAT 2021,Tue Aug 31 13:32:21 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1184,299,8069
+5196,Tue Aug 31 13:32:21 WAT 2021,Tue Aug 31 13:32:24 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,3426,299,8069
+5197,Tue Aug 31 13:32:24 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1518,299,8069
+5198,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,15,166,7665
+5199,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,404,Not Found,3,99,0
+5200,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,404,Not Found,3,99,0
+5201,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,10,166,7665
+5202,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,8,166,7665
+5203,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5204,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5205,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5206,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5207,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5208,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5209,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5210,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,10,166,7665
+5211,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,9,166,7665
+5212,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,200,OK,16,113,4986
+5213,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,37,132,27943
+5214,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,35,132,27943
+5215,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,32,132,27943
+5216,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,35,132,27943
+5217,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,33,132,27943
+5218,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,500,Internal Server Error,32,132,27943
+5219,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,200,OK,8,113,4986
+5220,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5221,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5222,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5223,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5224,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5225,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,400,Bad Request,3,101,0
+5226,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,12,166,7396
+5227,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7434
+5228,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7434
+5229,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7471
+5230,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7476
+5231,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7475
+5232,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7471
+5233,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,10,166,7396
+5234,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,5,166,7459
+5235,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7459
+5236,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,14,166,7396
+5237,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,13,166,7396
+5238,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,14,166,7396
+5239,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,10,166,7396
+5240,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,10,166,7396
+5241,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,10,166,7378
+5242,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,6,166,7421
+5243,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,256,132,44757
+5244,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,255,132,44772
+5245,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:27 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,270,132,44769
+5246,Tue Aug 31 13:32:27 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,500,Internal Server Error,282,132,44757
+5247,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,9,166,7396
+5248,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5249,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5250,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,3,101,0
+5251,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,3,101,0
+5252,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,3,101,0
+5253,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/login,400,Bad Request,4,101,0
+5254,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5255,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18139
+5256,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18139
+5257,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18040
+5258,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18045
+5259,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18044
+5260,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5261,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5262,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18137
+5263,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18137
+5264,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18040
+5265,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18045
+5266,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18044
+5267,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5268,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+5269,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18143
+5270,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18143
+5271,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5272,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18045
+5273,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18044
+5274,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18040
+5275,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5276,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5277,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18134
+5278,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18177
+5279,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18192
+5280,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18189
+5281,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18177
+5282,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5283,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18143
+5284,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18143
+5285,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5286,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18045
+5287,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18044
+5288,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5289,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5290,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18113
+5291,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18113
+5292,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18150
+5293,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18155
+5294,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18154
+5295,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18150
+5296,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5297,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18143
+5298,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18143
+5299,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18040
+5300,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18045
+5301,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18044
+5302,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5303,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5304,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18132
+5305,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18132
+5306,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5307,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:28 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5308,Tue Aug 31 13:32:28 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+5309,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5310,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18042
+5311,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18127
+5312,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18127
+5313,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18040
+5314,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18045
+5315,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18044
+5316,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18040
+5317,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5318,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18116
+5319,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18116
+5320,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18180
+5321,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18180
+5322,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18180
+5323,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18180
+5324,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18042
+5325,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5326,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5327,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,5,166,18180
+5328,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5329,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5330,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,6,166,18180
+5331,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,7,166,18042
+5332,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+5333,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+5334,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,3,101,0
+5335,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,3,101,0
+5336,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,4,101,0
+5337,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainees/registernow,400,Bad Request,3,101,0
+5338,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,11,113,4985
+5339,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6304
+5340,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,4,166,6304
+5341,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,4,166,6341
+5342,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,15,166,6346
+5343,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6345
+5344,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,5,166,6341
+5345,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,200,OK,8,113,4985
+5346,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,3,101,0
+5347,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,3,101,0
+5348,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5349,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5350,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5351,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:29 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,400,Bad Request,4,101,0
+5352,Tue Aug 31 13:32:26 WAT 2021,Tue Aug 31 13:32:26 WAT 2021,POST,https://localhost:5001/administrator/externallogin,200,OK,5,1625,198068
+5353,Tue Aug 31 13:32:31 WAT 2021,Tue Aug 31 13:32:31 WAT 2021,POST,https://localhost:5001/administrator/externallogin,200,OK,3,113,17840
+5354,Tue Aug 31 13:32:31 WAT 2021,Tue Aug 31 13:32:31 WAT 2021,POST,https://localhost:5001/administrator/externallogin,200,OK,3,113,17840
+5355,Tue Aug 31 13:32:32 WAT 2021,Tue Aug 31 13:32:32 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,24,132,23949
+5356,Tue Aug 31 13:32:32 WAT 2021,Tue Aug 31 13:32:32 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,25,132,23979
+5357,Tue Aug 31 13:32:32 WAT 2021,Tue Aug 31 13:32:32 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,27,132,23973
+5358,Tue Aug 31 13:32:32 WAT 2021,Tue Aug 31 13:32:32 WAT 2021,POST,https://localhost:5001/administrator/externallogin,500,Internal Server Error,28,132,23949
+5359,Tue Aug 31 13:32:29 WAT 2021,Tue Aug 31 13:32:33 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,3668,299,8069
+5360,Tue Aug 31 13:32:33 WAT 2021,Tue Aug 31 13:32:35 WAT 2021,POST,https://localhost:5001/trainer/idcheck,500,Internal Server Error,1786,132,28453
+5361,Tue Aug 31 13:32:32 WAT 2021,Tue Aug 31 13:32:32 WAT 2021,POST,https://localhost:5001/administrator/externallogin,200,OK,3,1625,198006
+5362,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,3,101,0
+5363,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,3,101,0
+5364,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,3,101,0
+5365,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,3,101,0
+5366,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+5367,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/administrator/externallogin,400,Bad Request,4,101,0
+5368,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,10,166,7993
+5369,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8031
+5370,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8031
+5371,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8068
+5372,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8073
+5373,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8072
+5374,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8068
+5375,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5376,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,6,166,8056
+5377,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,5,166,8056
+5378,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5379,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,10,166,7993
+5380,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,10,166,7993
+5381,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5382,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,8,166,7993
+5383,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7975
+5384,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:37 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,4,166,8018
+5385,Tue Aug 31 13:32:35 WAT 2021,Tue Aug 31 13:32:38 WAT 2021,POST,https://localhost:5001/trainer/idcheck,500,Internal Server Error,2957,132,28453
+5386,Tue Aug 31 13:32:37 WAT 2021,Tue Aug 31 13:32:38 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,440,132,44279
+5387,Tue Aug 31 13:32:38 WAT 2021,Tue Aug 31 13:32:38 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,269,132,44294
+5388,Tue Aug 31 13:32:38 WAT 2021,Tue Aug 31 13:32:38 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,265,132,44291
+5389,Tue Aug 31 13:32:38 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,500,Internal Server Error,279,132,44279
+5390,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,9,166,7993
+5391,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,3,101,0
+5392,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,3,101,0
+5393,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,3,101,0
+5394,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5395,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5396,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/login,400,Bad Request,4,101,0
+5397,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,2,99,0
+5398,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,3,99,0
+5399,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,3,99,0
+5400,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,2,99,0
+5401,Tue Aug 31 13:32:38 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1391,299,8069
+5402,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,3,99,0
+5403,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,2,99,0
+5404,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,3,99,0
+5405,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:39 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,3,99,0
+5406,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,3,99,0
+5407,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,3,99,0
+5408,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,2,99,0
+5409,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,3,99,0
+5410,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,2,99,0
+5411,Tue Aug 31 13:32:40 WAT 2021,Tue Aug 31 13:32:40 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,5,99,0
+5412,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,3,99,0
+5413,Tue Aug 31 13:32:39 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1669,299,8069
+5414,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,3,99,0
+5415,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,3,99,0
+5416,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,2,99,0
+5417,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,2,99,0
+5418,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:41 WAT 2021,GET,https://localhost:5001/css,404,Not Found,3,99,0
+5419,Tue Aug 31 13:32:43 WAT 2021,Tue Aug 31 13:32:43 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,3,99,0
+5420,Tue Aug 31 13:32:43 WAT 2021,Tue Aug 31 13:32:43 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,3,99,0
+5421,Tue Aug 31 13:32:43 WAT 2021,Tue Aug 31 13:32:43 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,3,99,0
+5422,Tue Aug 31 13:32:41 WAT 2021,Tue Aug 31 13:32:43 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2277,299,8069
+5423,Tue Aug 31 13:32:44 WAT 2021,Tue Aug 31 13:32:44 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,4,99,0
+5424,Tue Aug 31 13:32:44 WAT 2021,Tue Aug 31 13:32:44 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,2,99,0
+5425,Tue Aug 31 13:32:44 WAT 2021,Tue Aug 31 13:32:44 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,3,99,0
+5426,Tue Aug 31 13:32:45 WAT 2021,Tue Aug 31 13:32:45 WAT 2021,GET,https://localhost:5001/home,200,OK,9,113,17840
+5427,Tue Aug 31 13:32:43 WAT 2021,Tue Aug 31 13:32:45 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1949,299,8069
+5428,Tue Aug 31 13:32:46 WAT 2021,Tue Aug 31 13:32:46 WAT 2021,GET,https://localhost:5001/images,404,Not Found,3,99,0
+5429,Tue Aug 31 13:32:46 WAT 2021,Tue Aug 31 13:32:46 WAT 2021,GET,https://localhost:5001/img,404,Not Found,3,99,0
+5430,Tue Aug 31 13:32:47 WAT 2021,Tue Aug 31 13:32:47 WAT 2021,GET,https://localhost:5001/js,404,Not Found,3,99,0
+5431,Tue Aug 31 13:32:45 WAT 2021,Tue Aug 31 13:32:47 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2409,299,8069
+5432,Tue Aug 31 13:32:47 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1186,299,8069
+5433,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA,200,OK,6,224,35
+5434,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?=,200,OK,6,224,35
+5435,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=,200,OK,5,224,35
+5436,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=%40,200,OK,4,224,35
+5437,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=%2B,200,OK,5,224,35
+5438,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=%00,200,OK,4,224,35
+5439,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/js/site.js?v=%7C,200,OK,5,224,35
+5440,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,3,99,0
+5441,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,2,99,0
+5442,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,2,99,0
+5443,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,3,99,0
+5444,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,8,99,0
+5445,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,5,99,0
+5446,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:49 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,3,99,0
+5447,Tue Aug 31 13:32:50 WAT 2021,Tue Aug 31 13:32:50 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,2,99,0
+5448,Tue Aug 31 13:32:49 WAT 2021,Tue Aug 31 13:32:50 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1191,299,8069
+5449,Tue Aug 31 13:32:50 WAT 2021,Tue Aug 31 13:32:50 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,3,99,0
+5450,Tue Aug 31 13:32:50 WAT 2021,Tue Aug 31 13:32:50 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+5451,Tue Aug 31 13:32:51 WAT 2021,Tue Aug 31 13:32:51 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,5,99,0
+5452,Tue Aug 31 13:32:51 WAT 2021,Tue Aug 31 13:32:51 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,5,99,0
+5453,Tue Aug 31 13:32:51 WAT 2021,Tue Aug 31 13:32:51 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,4,99,0
+5454,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=201903210808,200,OK,2,226,7037
+5455,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?=,200,OK,3,226,7037
+5456,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=,200,OK,3,226,7037
+5457,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=%40,200,OK,3,226,7037
+5458,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=%2B,200,OK,3,226,7037
+5459,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=%00,200,OK,2,226,7037
+5460,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=%7C,200,OK,3,226,7037
+5461,Tue Aug 31 13:32:50 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1972,299,8069
+5462,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/trainees,302,Found,5,162,0
+5463,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,5,99,0
+5464,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,6,99,0
+5465,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:52 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,4,99,0
+5466,Tue Aug 31 13:32:53 WAT 2021,Tue Aug 31 13:32:53 WAT 2021,GET,https://localhost:5001/trainer,302,Found,6,161,0
+5467,Tue Aug 31 13:32:53 WAT 2021,Tue Aug 31 13:32:53 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,5,99,0
+5468,Tue Aug 31 13:32:53 WAT 2021,Tue Aug 31 13:32:53 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,5,99,0
+5469,Tue Aug 31 13:32:53 WAT 2021,Tue Aug 31 13:32:53 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,3,99,0
+5470,Tue Aug 31 13:32:52 WAT 2021,Tue Aug 31 13:32:58 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,5875,299,8069
+5471,Tue Aug 31 13:32:58 WAT 2021,Tue Aug 31 13:33:00 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2303,299,8069
+5472,Tue Aug 31 13:33:00 WAT 2021,Tue Aug 31 13:33:01 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1224,299,8069
+5473,Tue Aug 31 13:33:01 WAT 2021,Tue Aug 31 13:33:01 WAT 2021,GET,https://localhost:5001/elmah.axd,404,Not Found,3,99,0
+5474,Tue Aug 31 13:33:01 WAT 2021,Tue Aug 31 13:33:01 WAT 2021,GET,https://localhost:5001/administrator/.htaccess,404,Not Found,3,99,0
+5475,Tue Aug 31 13:33:01 WAT 2021,Tue Aug 31 13:33:01 WAT 2021,GET,https://localhost:5001/home/.htaccess,404,Not Found,3,99,0
+5476,Tue Aug 31 13:33:01 WAT 2021,Tue Aug 31 13:33:01 WAT 2021,GET,https://localhost:5001/trainees/.htaccess,404,Not Found,3,99,0
+5477,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/trainer/.htaccess,404,Not Found,5,99,0
+5478,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/.htaccess,404,Not Found,6,99,0
+5479,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,6,99,0
+5480,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,5,99,0
+5481,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,4,99,0
+5482,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,6,99,0
+5483,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets/.htaccess,404,Not Found,6,99,0
+5484,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets/images/.htaccess,404,Not Found,6,99,0
+5485,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo/.htaccess,404,Not Found,5,99,0
+5486,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,2,99,0
+5487,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,3,99,0
+5488,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/.htaccess,404,Not Found,2,99,0
+5489,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,2,99,0
+5490,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,2,99,0
+5491,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/.htaccess,404,Not Found,2,99,0
+5492,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/.htaccess,404,Not Found,3,99,0
+5493,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js/.htaccess,404,Not Found,6,99,0
+5494,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,6,99,0
+5495,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,6,99,0
+5496,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery/.htaccess,404,Not Found,8,99,0
+5497,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist/.htaccess,404,Not Found,6,99,0
+5498,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,7,99,0
+5499,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,7,99,0
+5500,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/.htaccess,404,Not Found,3,99,0
+5501,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,3,99,0
+5502,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,3,99,0
+5503,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/.htaccess,404,Not Found,3,99,0
+5504,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue/.htaccess,404,Not Found,3,99,0
+5505,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,2,99,0
+5506,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/.htaccess,404,Not Found,5,99,0
+5507,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,5,99,0
+5508,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css/.htaccess,404,Not Found,5,99,0
+5509,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js/.htaccess,404,Not Found,3,99,0
+5510,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,4,99,0
+5511,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,8,99,0
+5512,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/.htaccess,404,Not Found,3,99,0
+5513,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,4,99,0
+5514,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/css,404,Not Found,3,99,0
+5515,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/.htaccess,404,Not Found,3,99,0
+5516,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd/.htaccess,404,Not Found,3,99,0
+5517,Tue Aug 31 13:33:02 WAT 2021,Tue Aug 31 13:33:02 WAT 2021,GET,https://localhost:5001/css/.htaccess,404,Not Found,3,99,0
+5518,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,2,99,0
+5519,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,2,99,0
+5520,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,3,99,0
+5521,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/.htaccess,404,Not Found,3,99,0
+5522,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/.htaccess,404,Not Found,3,99,0
+5523,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/css/.htaccess,404,Not Found,2,99,0
+5524,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,6,99,0
+5525,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,5,99,0
+5526,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/images/.htaccess,404,Not Found,7,99,0
+5527,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo/.htaccess,404,Not Found,5,99,0
+5528,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,4,99,0
+5529,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/dist/assets/js/.htaccess,404,Not Found,7,99,0
+5530,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/home,200,OK,25,113,17840
+5531,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/images,404,Not Found,3,99,0
+5532,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/home/info/.htaccess,200,OK,7,113,57260
+5533,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/img,404,Not Found,6,99,0
+5534,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/images/.htaccess,404,Not Found,6,99,0
+5535,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/img/.htaccess,404,Not Found,7,99,0
+5536,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:03 WAT 2021,GET,https://localhost:5001/js,404,Not Found,10,99,0
+5537,Tue Aug 31 13:33:03 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/js/.htaccess,404,Not Found,25,99,0
+5538,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,3,99,0
+5539,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,2,99,0
+5540,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,3,99,0
+5541,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,2,99,0
+5542,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/.htaccess,404,Not Found,4,99,0
+5544,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/.htaccess,404,Not Found,3,99,0
+5543,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap/.htaccess,404,Not Found,3,99,0
+5545,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,6,99,0
+5546,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js/.htaccess,404,Not Found,6,99,0
+5547,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,5,99,0
+5548,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery/.htaccess,404,Not Found,8,99,0
+5549,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,8,99,0
+5550,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery/dist/.htaccess,404,Not Found,6,99,0
+5551,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,6,99,0
+5552,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/.htaccess,404,Not Found,7,99,0
+5553,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist/.htaccess,404,Not Found,5,99,0
+5554,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,6,99,0
+5555,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive/.htaccess,404,Not Found,3,99,0
+5556,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,4,99,0
+5557,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/lib/multiform/.htaccess,404,Not Found,4,99,0
+5558,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,3,99,0
+5559,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,2,99,0
+5560,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify/.htaccess,404,Not Found,3,99,0
+5561,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,3,99,0
+5562,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify/js/.htaccess,404,Not Found,3,99,0
+5563,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/.htaccess,404,Not Found,3,99,0
+5564,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees,302,Found,2,162,0
+5565,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,3,99,0
+5566,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,3,99,0
+5567,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,3,99,0
+5568,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets/.htaccess,404,Not Found,3,99,0
+5569,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets/images/.htaccess,404,Not Found,3,99,0
+5570,Tue Aug 31 13:33:04 WAT 2021,Tue Aug 31 13:33:04 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo/.htaccess,404,Not Found,2,99,0
+5571,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer,302,Found,5,161,0
+5572,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,5,99,0
+5573,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,5,99,0
+5574,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,7,99,0
+5575,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets/.htaccess,404,Not Found,6,99,0
+5576,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets/images/.htaccess,404,Not Found,3,99,0
+5577,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo/.htaccess,404,Not Found,3,99,0
+5578,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,5,99,0
+5579,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,3,99,0
+5580,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,3,99,0
+5581,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,3,99,0
+5582,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,3,99,0
+5583,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,3,99,0
+5584,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,3,99,0
+5585,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,3,99,0
+5586,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,2,99,0
+5587,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,3,99,0
+5588,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,3,99,0
+5589,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,3,99,0
+5590,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,2,99,0
+5591,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,2,99,0
+5592,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,2,99,0
+5593,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,2,99,0
+5594,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,2,99,0
+5595,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,3,99,0
+5596,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,2,99,0
+5597,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/css,404,Not Found,2,99,0
+5598,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,3,99,0
+5599,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,3,99,0
+5600,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,2,99,0
+5601,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,3,99,0
+5602,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,2,99,0
+5603,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,3,99,0
+5604,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/home,200,OK,8,113,17840
+5605,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/images,404,Not Found,2,99,0
+5606,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/img,404,Not Found,3,99,0
+5607,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/js,404,Not Found,3,99,0
+5608,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,2,99,0
+5609,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,2,99,0
+5610,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,3,99,0
+5611,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,3,99,0
+5612,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,3,99,0
+5613,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,3,99,0
+5614,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,3,99,0
+5615,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,3,99,0
+5616,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,2,99,0
+5617,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+5618,Tue Aug 31 13:33:05 WAT 2021,Tue Aug 31 13:33:05 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,2,99,0
+5619,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,3,99,0
+5620,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,2,99,0
+5621,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainees,302,Found,2,162,0
+5622,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,2,99,0
+5623,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,3,99,0
+5624,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,3,99,0
+5625,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainer,302,Found,3,161,0
+5626,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,2,99,0
+5627,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,3,99,0
+5628,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,2,99,0
+5629,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/administrator,404,Not Found,5,99,0
+5630,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/administrator/assets,404,Not Found,6,99,0
+5631,Tue Aug 31 13:33:06 WAT 2021,Tue Aug 31 13:33:06 WAT 2021,GET,https://localhost:5001/administrator/assets/images,404,Not Found,10,99,0
+5632,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo,404,Not Found,3,99,0
+5633,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components,404,Not Found,2,99,0
+5634,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap,404,Not Found,2,99,0
+5635,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist,404,Not Found,2,99,0
+5636,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js,404,Not Found,2,99,0
+5637,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/jquery,404,Not Found,3,99,0
+5638,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist,404,Not Found,3,99,0
+5639,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/PACE,404,Not Found,2,99,0
+5640,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes,404,Not Found,2,99,0
+5641,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue,404,Not Found,2,99,0
+5642,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar,404,Not Found,3,99,0
+5643,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css,404,Not Found,2,99,0
+5644,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js,404,Not Found,3,99,0
+5645,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/popper.js,404,Not Found,2,99,0
+5646,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist,404,Not Found,3,99,0
+5647,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd,404,Not Found,3,99,0
+5648,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/css,404,Not Found,2,99,0
+5649,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/dist,404,Not Found,5,99,0
+5650,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/dist/assets,404,Not Found,6,99,0
+5651,Tue Aug 31 13:33:07 WAT 2021,Tue Aug 31 13:33:07 WAT 2021,GET,https://localhost:5001/dist/assets/css,404,Not Found,5,99,0
+5652,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/dist/assets/images,404,Not Found,3,99,0
+5653,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo,404,Not Found,4,99,0
+5654,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/dist/assets/js,404,Not Found,3,99,0
+5655,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/home,200,OK,24,113,17840
+5656,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/images,404,Not Found,2,99,0
+5657,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/img,404,Not Found,2,99,0
+5658,Tue Aug 31 13:33:08 WAT 2021,Tue Aug 31 13:33:08 WAT 2021,GET,https://localhost:5001/js,404,Not Found,3,99,0
+5659,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib,404,Not Found,5,99,0
+5660,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/bootstrap,404,Not Found,6,99,0
+5661,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist,404,Not Found,5,99,0
+5662,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js,404,Not Found,4,99,0
+5663,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/jquery,404,Not Found,3,99,0
+5664,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/jquery/dist,404,Not Found,3,99,0
+5665,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/jquery-validation,404,Not Found,2,99,0
+5666,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist,404,Not Found,3,99,0
+5667,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive,404,Not Found,2,99,0
+5668,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/lib/multiform,404,Not Found,3,99,0
+5669,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/NToastNotify,404,Not Found,3,99,0
+5670,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/NToastNotify/js,404,Not Found,2,99,0
+5671,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist,404,Not Found,3,99,0
+5672,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/trainees,302,Found,3,162,0
+5673,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/trainees/assets,404,Not Found,3,99,0
+5674,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/trainees/assets/images,404,Not Found,3,99,0
+5675,Tue Aug 31 13:33:09 WAT 2021,Tue Aug 31 13:33:09 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo,404,Not Found,2,99,0
+5676,Tue Aug 31 13:33:10 WAT 2021,Tue Aug 31 13:33:10 WAT 2021,GET,https://localhost:5001/trainer,302,Found,5,161,0
+5677,Tue Aug 31 13:33:10 WAT 2021,Tue Aug 31 13:33:10 WAT 2021,GET,https://localhost:5001/trainer/assets,404,Not Found,3,99,0
+5678,Tue Aug 31 13:33:10 WAT 2021,Tue Aug 31 13:33:10 WAT 2021,GET,https://localhost:5001/trainer/assets/images,404,Not Found,4,99,0
+5679,Tue Aug 31 13:33:10 WAT 2021,Tue Aug 31 13:33:10 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo,404,Not Found,3,99,0

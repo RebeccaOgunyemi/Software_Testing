@@ -1,0 +1,35 @@
+Processed,Method,URI
+true,GET,https://xidoc-staging.azurewebsites.net/robots.txt
+true,GET,https://xidoc-staging.azurewebsites.net/sitemap.xml
+true,GET,https://xidoc-staging.azurewebsites.net/Account/Login (ReturnUrl)
+true,GET,https://xidoc-staging.azurewebsites.net/Account/ForgotPassword
+true,GET,https://xidoc-staging.azurewebsites.net/assets/img/apple-icon.png
+true,GET,https://xidoc-staging.azurewebsites.net/assets/img/favicon.png
+true,GET,https://xidoc-staging.azurewebsites.net/assets/css/bootstrap.min.css
+true,GET,https://xidoc-staging.azurewebsites.net/assets/demo/demo.css
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/jquery.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/popper.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/bootstrap.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/perfect-scrollbar.jquery.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/moment.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-switch.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/sweetalert2.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.validate.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.bootstrap-wizard.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-selectpicker.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-datetimepicker.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/css/now-ui-dashboard.css (v)
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.dataTables.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-tagsinput.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jasny-bootstrap.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/fullcalendar.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/nouislider.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery-jvectormap.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-notify.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/now-ui-dashboard.js (v)
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/chartjs.min.js
+true,GET,https://xidoc-staging.azurewebsites.net/assets/demo/demo.js
+true,POST,"https://xidoc-staging.azurewebsites.net/Account/Login (returnurl)(Email,Password,RememberMe,__RequestVerificationToken)"
+true,POST,"https://xidoc-staging.azurewebsites.net/Account/ForgotPassword ()(Email,__RequestVerificationToken)"
+true,GET,https://xidoc-staging.azurewebsites.net/Account/Login (returnurl)
+true,GET,https://xidoc-staging.azurewebsites.net/Account/ForgotPasswordConfirmation

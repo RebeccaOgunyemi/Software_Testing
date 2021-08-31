@@ -1,0 +1,73 @@
+Step,Data,XPath,cssSelector,
+Open website,https://kadsrraportaldev.azurewebsites.net/,,,
+Click on Home,,//a[normalize-space()='Home'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1),
+1   Validating OUR VALUES,,//div[@class='active carousel-item']//div[@class='carousel-caption'],body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2),
+2 Validating OUR GOALS,no content,//h4[normalize-space()='OUR GOALS'],body > div:nth-child(2) > div:nth-child(5) > div:nth-child(1) > h4:nth-child(2),
+3 Validating REGISTRATION,,//h4[normalize-space()='REGISTRATION'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(1) > h4:nth-child(2),
+ai Validate ability to navigate on ADULT REGISTRATION,It should be a dropdown that includes other submenus,//h5[normalize-space()='ADULT REGISTRATION'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > h5:nth-child(1),
+Validate ability to view the info on Details on Adult Registration,Okay,//div[normalize-space()='Details for Adult Registration'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1),
+Click on Conditions for Adult Registrat,Okay,//div[normalize-space()='Conditions for Adult Registration'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1),
+aii Validating CHILDREN REGISTRATION,,//h5[normalize-space()='CHILDREN REGISTRATION'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > h5:nth-child(5),
+Validate ability to view the info on Details for Children Registrat,Okay,//div[normalize-space()='Details for Children Registration'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > div:nth-child(7) > div:nth-child(1) > div:nth-child(1),
+Click on Conditions for Children Regist,Okay,//div[normalize-space()='Conditions for Children Registration'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div:nth-child(1) > div:nth-child(7) > div:nth-child(2) > div:nth-child(1),
+b Click on Enrollment Centres,,//h5[normalize-space()='Enrollment Centres'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(3) > div:nth-child(1) > h5:nth-child(1),
+Validate ability to view Enrollment Centers,no record on this page,//a[normalize-space()='View Enrollment Centers'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(3) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > a:nth-child(1),
+Validate ability to download Enrollment Centers,Okay,//a[normalize-space()='Download Enrollment Centers'],body > div:nth-child(2) > div:nth-child(6) > div:nth-child(3) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > a:nth-child(1),
+Validate ability to navigate on About Us menu,Okay,//a[normalize-space()='About Us'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1),
+Validate ability to navigate through Partner with us menu,Okay,//a[normalize-space()='Partner with us'],body > div:nth-child(2) > div:nth-child(1) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1),
+Validate ability to use Click here to start button,Okay,//button[normalize-space()='Click here to start'],body > div:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > button:nth-child(3),
+Enter Name of Organisation,Money Nig. ltd.,//input[@id='nameoforganization'],#nameoforganization,
+Enter email address,money3@g.co,//input[@id='email'],#email,
+Enter subject,Agriculture,//input[@id='subject'],#subject,
+Enter additional message,Agricultural Services,//textarea[@id='additionalmessage'],#additionalmessage,
+Validate ability to request for partnership,Okay,//button[normalize-space()='Request for partnership'],button[type='submit'],
+Validate ability to close partnership request submenu,Okay,//span[@aria-hidden='true'],span[aria-hidden='true'],
+Click on Resources,Oka,//a[normalize-space()='Resources'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1),
+Validate ability to download KADSRRA LAW,Okay,,body > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > a:nth-child(5),
+Validate ability to download NIMC ACT 2007,Okay,,body > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(5),
+Click on FAQ,Okay but empty page,//a[normalize-space()='FAQ'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1),
+FOOTER,,,,
+Click on kadsrra@kdsg.gov.ngNo. 30 Muha,Okay,//img[contains(@class,'mt-2')],.mt-2
+Click on Find an enrollment centre here,here should be a functional link,//span[@class='mt-4 text-white'],.mt-4.text-white,
+Click on Contact,Okay,//a[normalize-space()='Contact'],.text-white.pr-3.dropdown-toggle.nav-link,
+Validate ability to fill Contact Us info,Okay,//a[normalize-space()='Contact Us'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(6) > div:nth-child(2) > button:nth-child(1) > li:nth-child(1) > a:nth-child(1),
+Enter Full Name,Okay,//input[@id='fullname'],#fullname,
+Enter Email address,Okay,//input[@id='email'],#email,
+Enter subject,Okay,//input[@id='subject'],#subject,
+Enter message,Okay,//textarea[@id='message'],#message,
+Click on Submit,Not working,//button[normalize-space()='Submit'],.btn.btn-success.p-2,
+Click on Contact,,//a[normalize-space()='Contact'],.text-white.pr-3.dropdown-toggle.nav-link,
+Validate ability toclick on Enrollment Center,Okay, no records,//a[normalize-space()='Enrollment Center'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(6) > div:nth-child(2) > button:nth-child(3) > li:nth-child(1) > a:nth-child(1)
+Click on Login,,//a[normalize-space()='Login'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(7) > a:nth-child(1),
+Enter Username,sw,//input[contains(@placeholder,'Username')],input[placeholder='Username']
+Enter Password,ww,//input[@placeholder='Password'],input[placeholder='Password'],
+Click on Remember me,Okay,//label[normalize-space()='Remember me'],.form-check-label,
+Click on Login,not working,//button[normalize-space()='Login'],button[type='button'],
+Click on Forgot password?,It is doing the function of login button,//a[normalize-space()='Forgot password?'],a[href='/'],
+Forfot password,accepting random login details,,,
+"Click on ""Resources""",,,//a[normalize-space()='Resources'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1)
+"Click on ""Contact""",,,//a[normalize-space()='Contact'],.text-white.pr-3.dropdown-toggle.nav-link
+"Click on ""Contact Us""",,,//a[normalize-space()='Contact Us'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(6) > div:nth-child(2) > button:nth-child(1) > li:nth-child(1) > a:nth-child(1)
+"Enter in ""Full Name""",Deborah,,//input[@id='fullname'],#fullname
+"Enter in ""Full Name""",ade@i,,//input[@id='email'],#email
+"Enter in ""Full Name""",Complaint,,//input[@id='subject'],#subject
+"Click on ""Full Name""",,,//textarea[@id='message'],#message
+"Enter in ""Full Name""",first month,,//textarea[@id='message'],#message
+"Click on ""Submit""",,,//button[normalize-space()='Submit'],.btn.btn-success.p-2
+"Click on ""Submit""",,,//button[normalize-space()='Submit'],.btn.btn-success.p-2
+"Click on ""Get in Touch""",,,//h5[normalize-space()='Get in Touch'],.backtag
+"Click on ""Contact""",,,//a[normalize-space()='Contact'],.text-white.pr-3.dropdown-toggle.nav-link
+"Click on ""Enrollment Center""",,,//a[normalize-space()='Enrollment Center'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(6) > div:nth-child(2) > button:nth-child(3) > li:nth-child(1) > a:nth-child(1)
+"Click on ""There are no records to displa""",,,//div[@class='sc-fzqARJ iXaluh'],.sc-fzqARJ.iXaluh
+"Enter in ""nimc""",nimc,,//input[@value='nimc'],input[value='nimc']
+Press Enter Key,,,,
+"Enter in ""nimc""",nimc,,//input[@value='nimc'],input[value='nimc']
+Press Enter Key,,,,
+"Click on ""FAQ""",,,//a[normalize-space()='FAQ'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1)
+"Click on ""Resources""",,,//a[normalize-space()='Resources'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1)
+"Click on ""Partner with us""",,,//a[normalize-space()='Partner with us'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1)
+"Click on ""Click here to start""",,,//button[normalize-space()='Click here to start'],body > div:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > button:nth-child(3)
+"Enter in ""Name of Organisation""",olufunmilayosmiles@gmail.com,,//input[@id='email'],#email
+"Enter in ""Name of Organisation""",Agriculture,,//input[@id='subject'],#subject
+"Click on ""Request for partnership""",,,//button[normalize-space()='Request for partnership'],button[type='submit']
+"Click on ""About Us""",,,//a[normalize-space()='About Us'],body > div:nth-child(2) > header:nth-child(1) > nav:nth-child(1) > div:nth-child(1) > div:nth-child(3) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1)

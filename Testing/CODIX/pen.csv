@@ -1,0 +1,100 @@
+Processed,Method,URI,Flags
+true,GET,https://xidoc-staging.azurewebsites.net,Seed
+true,GET,https://xidoc-staging.azurewebsites.net/robots.txt,Seed
+true,GET,https://xidoc-staging.azurewebsites.net/sitemap.xml,Seed
+true,GET,https://xidoc-staging.azurewebsites.net/,Seed
+true,GET,https://xidoc-staging.azurewebsites.net/Account/Login?ReturnUrl=%2F,
+true,GET,https://xidoc-staging.azurewebsites.net/Account/ForgotPassword,
+false,GET,https://www.wragbysolutions.com/,Out of Scope
+false,GET,https://www.wragbysolutions.com/where-we-work/,Out of Scope
+true,GET,https://xidoc-staging.azurewebsites.net/assets/img/apple-icon.png,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/img/favicon.png,
+false,GET,"https://fonts.googleapis.com/css?family=Montserrat:400,700,200",Out of Scope
+false,GET,https://use.fontawesome.com/releases/v5.0.6/css/all.css,Out of Scope
+true,GET,https://xidoc-staging.azurewebsites.net/assets/css/bootstrap.min.css,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/css/now-ui-dashboard.css?v=1.0.1,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/demo/demo.css,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/jquery.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/popper.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/core/bootstrap.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/perfect-scrollbar.jquery.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/moment.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-switch.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/sweetalert2.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.validate.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.bootstrap-wizard.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-selectpicker.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-datetimepicker.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery.dataTables.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-tagsinput.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jasny-bootstrap.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/fullcalendar.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/jquery-jvectormap.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/nouislider.min.js,
+false,GET,https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE,Out of Scope
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/chartjs.min.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/plugins/bootstrap-notify.js,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/js/now-ui-dashboard.js?v=1.0.1,
+true,GET,https://xidoc-staging.azurewebsites.net/assets/demo/demo.js,
+false,GET,http://www.jque.re/plugins/version3/bootstrap.switch/,Out of Scope
+false,GET,https://github.com/VinceG/twitter-bootstrap-wizard,Out of Scope
+false,GET,http://silviomoreto.github.io/bootstrap-select,Out of Scope
+false,GET,https://eonasdan.github.io/bootstrap-datetimepicker/,Out of Scope
+false,GET,https://datatables.net/,Out of Scope
+false,GET,https://github.com/bootstrap-tagsinput/bootstrap-tagsinputs,Out of Scope
+false,GET,http://www.jasny.net/bootstrap/javascript/,Out of Scope
+false,GET,https://github.com/fullcalendar/fullcalendar,Out of Scope
+false,GET,http://jvectormap.com/documentation/,Out of Scope
+false,GET,http://refreshless.com/nouislider/,Out of Scope
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+false,GET,https://wragbysolutions.com/,Out of Scope
+true,POST,https://xidoc-staging.azurewebsites.net/Account/ForgotPassword,
+false,GET,https://getbootstrap.com/,Out of Scope
+false,GET,https://github.com/twbs/bootstrap/blob/master/LICENSE,Out of Scope
+false,GET,http://www.w3.org/2000/svg,Out of Scope
+false,GET,http://opensource.org/licenses/MIT,Out of Scope
+false,GET,https://github.com/twbs/bootstrap/graphs/contributors,Out of Scope
+false,GET,https://popper.js.org/,Out of Scope
+false,GET,http://momentjs.com/guides/,Out of Scope
+false,GET,http://www.bootstrap-switch.org/,Out of Scope
+false,GET,http://www.apache.org/licenses/LICENSE-2.0,Out of Scope
+false,GET,https://jqueryvalidation.org/,Out of Scope
+false,GET,http://github.com/VinceG/twitter-bootstrap-wizard,Out of Scope
+false,GET,http://www.opensource.org/licenses/mit-license.php,Out of Scope
+false,GET,http://www.gnu.org/licenses/gpl.html,Out of Scope
+false,GET,http://vadimg.com/,Out of Scope
+false,GET,https://github.com/silviomoreto/bootstrap-select/blob/master/LICENSE,Out of Scope
+false,GET,https://github.com/Eonasdan/bootstrap-datetimepicker,Out of Scope
+false,GET,http://jquery.com/,Out of Scope
+false,GET,http://www.creative-tim.com/product/now-ui-dashboard,Out of Scope
+false,GET,http://www.creative-tim.com/,Out of Scope
+false,GET,http://daneden.me/animate,Out of Scope
+false,GET,https://datatables.net/download,Out of Scope
+false,GET,https://datatables.net/download/,Out of Scope
+false,GET,http://twitter.github.com/bootstrap/,Out of Scope
+false,GET,http://datatables.net/tn/,Out of Scope
+false,GET,http://flightschool.acylt.com/devnotes/caret-position-woes/,Out of Scope
+false,GET,http://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html,Out of Scope
+false,GET,http://jasny.github.io/bootstrap,Out of Scope
+false,GET,https://github.com/jasny/bootstrap/blob/master/LICENSE,Out of Scope
+false,GET,https://fullcalendar.io/,Out of Scope
+false,GET,http://brandon.aaron.sh/,Out of Scope
+false,GET,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf,Out of Scope
+false,GET,http://www.w3.org/1999/xlink,Out of Scope
+false,GET,https://github.com/mbostock/d3/blob/master/src/scale/linear.js,Out of Scope
+false,GET,http://mathworld.wolfram.com/AlbersEqual-AreaConicProjection.html,Out of Scope
+false,GET,http://mathworld.wolfram.com/LambertConformalConicProjection.html,Out of Scope
+false,GET,https://github.com/mouse0270/bootstrap-growl,Out of Scope
+false,GET,https://www.creative-tim.com/product/now-ui-dashboard,Out of Scope
+false,GET,https://github.com/creativetimofficial/now-ui-dashboard/blob/master/LICENSE.md,Out of Scope
+false,GET,http://chartjs.org/,Out of Scope
+false,GET,https://github.com/chartjs/Chart.js/blob/master/LICENSE.md,Out of Scope
+false,GET,https://momentjs.com/,Out of Scope
+false,GET,http://github.com/,Out of Scope
+true,GET,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+true,GET,https://xidoc-staging.azurewebsites.net/Account/ForgotPasswordConfirmation,
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,
+true,POST,https://xidoc-staging.azurewebsites.net/Account/Login?returnurl=%2F,

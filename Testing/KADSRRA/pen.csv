@@ -1,0 +1,11 @@
+Processed,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body,Highest Alert,Tags
+Successfully,Tue Aug 31 11:40:08 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net,200,OK,2868,623,2472,Medium,"Script, SetCookie"
+Successfully,Tue Aug 31 11:40:08 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/robots.txt,200,OK,824,623,2472,Medium,"Script, SetCookie"
+Successfully,Tue Aug 31 11:40:09 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/sitemap.xml,200,OK,754,291,2472,Medium,Script
+Successfully,Tue Aug 31 11:40:10 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/,200,OK,541,291,2472,Medium,Script
+Successfully,Tue Aug 31 11:40:10 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/manifest.json,200,OK,436,297,326,Low,JSON
+Not Text,Tue Aug 31 11:40:11 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/favicon.ico,200,OK,963,295,32038,Low,
+Successfully,Tue Aug 31 11:40:11 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/static/css/2.d1a3885f.chunk.css,200,OK,6011,292,147707,Low,Comment
+Successfully,Tue Aug 31 11:40:12 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/static/css/main.4d916c40.chunk.css,200,OK,22880,292,570237,Low,Comment
+Successfully,Tue Aug 31 11:40:17 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/static/js/2.7b224acd.chunk.js,200,OK,42263,307,1712480,Low,"Hidden, Script, Comment"
+Successfully,Tue Aug 31 11:40:35 WAT 2021,GET,https://kadsrraportaldev.azurewebsites.net/static/js/main.10e17ae2.chunk.js,200,OK,17413,306,807344,Low,

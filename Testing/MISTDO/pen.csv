@@ -1,0 +1,99 @@
+Processed,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body,Highest Alert,Tags
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001,200,OK,151,113,17840,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001/robots.txt,404,Not Found,403,99,0,,
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001/sitemap.xml,404,Not Found,37,99,0,,
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001/,200,OK,175,113,17840,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001/home/calender,200,OK,759,113,9239,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:49 WAT 2021,GET,https://localhost:5001/home/certificatecheck,200,OK,727,435,7490,Low,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:50 WAT 2021,GET,https://localhost:5001/home/info,200,OK,516,113,57260,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:50 WAT 2021,GET,https://localhost:5001/home/info/%23faq,200,OK,394,113,57260,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:51 WAT 2021,GET,https://localhost:5001/home/info/%23minimum,200,OK,45,113,57260,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:51 WAT 2021,GET,https://localhost:5001/trainees/login,200,OK,1693,299,7357,Medium,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:51 WAT 2021,GET,https://localhost:5001/trainees/registernow,200,OK,1562,166,17866,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:52 WAT 2021,GET,https://localhost:5001/trainer/login,200,OK,1071,299,7954,Medium,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:52 WAT 2021,GET,https://localhost:5001/trainer/ogispcheck,200,OK,786,299,7979,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:53 WAT 2021,GET,https://localhost:5001/administrator/login,200,OK,1871,280,5599,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:53 WAT 2021,GET,https://localhost:5001/css/bootstrap.min.css,200,OK,107,213,97347,Low,"Upload, Comment"
+Successfully,Tue Aug 31 13:23:53 WAT 2021,GET,https://localhost:5001/css/jquery.bxslider.css,200,OK,6,212,4070,Low,Comment
+Successfully,Tue Aug 31 13:23:53 WAT 2021,GET,https://localhost:5001/css/style.css,200,OK,15,213,79711,Low,"Upload, Comment"
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/css/responsive.css,200,OK,7,212,6900,Low,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/css/yamm.css,200,OK,6,211,496,Low,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/css/jquery.nouislider.min.css,200,OK,7,212,2163,Low,
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/css/font-awesome.min.css,200,OK,9,213,29288,Low,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/jquery.min.js,200,OK,14,227,84384,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/bootstrap.min.js,200,OK,8,227,37051,Medium,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/respond.js,200,OK,24,227,13603,Low,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/jquery.bxslider.js,200,OK,39,227,82381,Low,Comment
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/tabs.js,200,OK,9,226,2360,Low,
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/jquery.nouislider.min.js,200,OK,11,227,11850,Low,"Hidden, Comment"
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/mapdata.js,200,OK,12,226,5662,Low,
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/js/countrymap.js,200,OK,28,228,199674,Low,"Form, Comment"
+Successfully,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/NToastNotify/js/dist/toastr.js?v=201903210808,200,OK,28,226,7037,Low,
+Not Text,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/img/logoGreen.png,200,OK,7,214,12071,Low,
+Not Text,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/images/mistdologo.png,200,OK,46,215,429266,Low,Comment
+Not Text,Tue Aug 31 13:23:54 WAT 2021,GET,https://localhost:5001/img/slider-bg.png,200,OK,252,216,1753805,Low,Comment
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/img/slider-bg2.png,200,OK,118,215,991147,Low,Comment
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/img/slider-bg3.png,200,OK,162,216,1098482,Low,Comment
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/img/trainee.jpg,200,OK,85,216,227048,Low,
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/img/trainer.jpg,200,OK,118,217,1321306,Low,Comment
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/img/admin.jpg,200,OK,100,216,537375,Low,Comment
+Successfully,Tue Aug 31 13:23:55 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,367,166,7665,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/MISTDO_SYLLABUS_UPDATED.pdf,200,OK,18,221,196033,Low,Comment
+Not Text,Tue Aug 31 13:23:55 WAT 2021,GET,https://localhost:5001/MISTDO_REQ.pdf,200,OK,27,220,94500,Low,Comment
+Successfully,Tue Aug 31 13:23:56 WAT 2021,GET,https://localhost:5001/trainees/forgotpassword,200,OK,1835,166,6243,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/trainees/assets/images/logo/favicon.png,404,Not Found,5,99,0,,
+Successfully,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/lib/multiform/bootstrap.min.css,200,OK,14,214,121270,Low,"Upload, Comment"
+Successfully,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/bower_components/PACE/themes/blue/pace-theme-minimal.css,200,OK,14,211,458,Low,Comment
+Successfully,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/css/perfect-scrollbar.min.css,200,OK,25,212,4631,Low,Comment
+Successfully,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/dist/assets/css/ei-icon.css,200,OK,16,213,38198,Low,
+Successfully,Tue Aug 31 13:23:57 WAT 2021,GET,https://localhost:5001/dist/assets/css/themify-icons.css,200,OK,9,213,19362,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/dist/assets/css/font-awesome.min.css,200,OK,6,213,31028,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/dist/assets/css/animate.min.css,200,OK,7,213,75598,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/dist/assets/css/app.css,200,OK,12,214,208187,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/lib/multiform/steps.css,200,OK,6,212,2733,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/lib/multiform/style.css,200,OK,16,214,342676,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/lib/multiform/default.css,200,OK,13,212,3201,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/lib/jquery/dist/jquery.js,200,OK,16,228,390947,Medium,"Form, Script, Comment"
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/lib/bootstrap/dist/js/bootstrap.js,200,OK,48,228,166203,Low,"Hidden, Comment"
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA,200,OK,8,224,35,Low,
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/bower_components/jquery/dist/jquery.min.js,200,OK,10,227,85582,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/bower_components/popper.js/dist/umd/popper.min.js,200,OK,7,227,19241,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/bower_components/bootstrap/dist/js/bootstrap.js,200,OK,96,228,157105,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/bower_components/PACE/pace.min.js,200,OK,10,227,12508,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/bower_components/perfect-scrollbar/js/perfect-scrollbar.jquery.js,200,OK,7,227,64999,Low,Comment
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/dist/assets/js/scripts.js,200,OK,21,226,1860,Low,"Password, Comment"
+Successfully,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/dist/assets/js/app.js,200,OK,14,226,5966,Low,
+Successfully,Tue Aug 31 13:23:58 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,82,166,18042,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:58 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,143,166,7396,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:23:58 WAT 2021,GET,https://localhost:5001/trainer/register.html,404,Not Found,73,99,0,,
+Successfully,Tue Aug 31 13:23:58 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,2437,299,8069,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:23:59 WAT 2021,GET,https://localhost:5001/trainer/forgotpassword,200,OK,467,166,6245,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:24:00 WAT 2021,GET,https://localhost:5001/trainer/assets/images/logo/favicon.png,404,Not Found,5,99,0,,
+Successfully,Tue Aug 31 13:24:00 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,67,166,7993,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:24:00 WAT 2021,GET,https://localhost:5001/administrator/assets/images/logo/favicon.png,404,Not Found,41,99,0,,
+Not Text,Tue Aug 31 13:24:00 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo/dpr%20logo.png,200,OK,10,214,81144,Low,Comment
+Successfully,Tue Aug 31 13:24:00 WAT 2021,POST,https://localhost:5001/administrator/externallogin,302,Found,1898,1716,0,Low,SetCookie
+Not Text,Tue Aug 31 13:24:01 WAT 2021,GET,https://localhost:5001/home/certificate,405,Method Not Allowed,6,121,0,,
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,14,166,7665,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:01 WAT 2021,GET,https://localhost:5001/lib/jquery-validation/dist/jquery.validate.js,200,OK,10,227,67394,Low,"Password, Hidden, Upload, Comment"
+Successfully,Tue Aug 31 13:24:01 WAT 2021,GET,https://localhost:5001/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js,200,OK,12,227,19758,Low,Comment
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainees/forgotpassword,302,Found,72,143,0,,
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,13,166,18042,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,27,166,7396,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:24:01 WAT 2021,GET,https://localhost:5001/dist/assets/images/logo/jepeg_logo.jpg,200,OK,13,214,9976,Low,
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainer/forgotpassword,302,Found,56,142,0,,
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,26,166,7993,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Not Text,Tue Aug 31 13:24:01 WAT 2021,GET,https://localhost:5001/trainer/idcheck,405,Method Not Allowed,19,121,0,,
+Successfully,Tue Aug 31 13:24:01 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1512,299,8069,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:02 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,16,166,7665,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:02 WAT 2021,GET,https://localhost:5001/trainees/forgotpasswordconfirmation,200,OK,290,113,4986,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:24:02 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,8,166,18042,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:02 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,11,166,7396,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:02 WAT 2021,GET,https://localhost:5001/trainer/forgotpasswordconfirmation,200,OK,298,113,4985,Medium,"Script, Comment"
+Successfully,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,25,166,7993,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/home/certificate,200,OK,26,166,7665,Medium,"Form, Hidden, Script, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/trainees/registernow,200,OK,39,166,18042,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/trainees/login,200,OK,18,166,7396,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Successfully,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1578,299,8069,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 13:24:03 WAT 2021,POST,https://localhost:5001/trainer/login,200,OK,15,166,7993,Medium,"Form, Password, Hidden, Script, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 13:24:04 WAT 2021,POST,https://localhost:5001/trainer/idcheck,200,OK,1409,299,8069,Medium,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"

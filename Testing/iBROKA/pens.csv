@@ -1,0 +1,69 @@
+Processed,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body,Highest Alert,Tags
+Successfully,Tue Aug 31 11:19:30 WAT 2021,GET,https://ibrokang.com,200,OK,667,650,33294,,"Script, SetCookie, Comment"
+Successfully,Tue Aug 31 11:19:30 WAT 2021,GET,https://ibrokang.com/robots.txt,404,Not Found,579,522,0,,SetCookie
+Successfully,Tue Aug 31 11:19:31 WAT 2021,GET,https://ibrokang.com/sitemap.xml,404,Not Found,123,234,0,,
+Successfully,Tue Aug 31 11:19:31 WAT 2021,GET,https://ibrokang.com/,200,OK,127,362,33294,,"Script, SetCookie, Comment"
+Not Text,Tue Aug 31 11:19:31 WAT 2021,GET,https://ibrokang.com/Home/Landing,404,Not Found,127,234,0,,
+Successfully,Tue Aug 31 11:19:31 WAT 2021,GET,https://ibrokang.com/Account/Login,200,OK,7907,835,10471,,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 11:19:31 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=0,200,OK,5425,248,22828,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:36 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=1,200,OK,605,248,23006,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:37 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=2,200,OK,481,248,23009,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:37 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=3,200,OK,249,248,23023,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:38 WAT 2021,GET,https://ibrokang.com/TermsandConditions,200,OK,1509,248,44514,,"Script, Comment"
+Successfully,Tue Aug 31 11:19:39 WAT 2021,GET,https://ibrokang.com/Privacy,200,OK,283,248,21417,,"Script, Comment"
+Not Text,Tue Aug 31 11:19:39 WAT 2021,GET,https://ibrokang.com/assets/images/favicon.png,404,Not Found,121,234,0,,
+Successfully,Tue Aug 31 11:19:39 WAT 2021,GET,https://ibrokang.com/assets/plugins/bootstrap/bootstrap.min.css,200,OK,1323,349,155764,,Comment
+Successfully,Tue Aug 31 11:19:39 WAT 2021,GET,https://ibrokang.com/assets/plugins/owl-carousel/owl.carousel.min.css,200,OK,137,347,3357,,Comment
+Successfully,Tue Aug 31 11:19:39 WAT 2021,GET,https://ibrokang.com/assets/plugins/owl-carousel/owl.theme.default.min.css,200,OK,134,347,1018,,Comment
+Successfully,Tue Aug 31 11:19:40 WAT 2021,GET,https://ibrokang.com/assets/css/app.min.css,200,OK,10655,350,1342175,,
+Successfully,Tue Aug 31 11:19:41 WAT 2021,GET,https://ibrokang.com/assets/plugins/themify/themify-icons.min.css,200,OK,812,348,13867,,
+Successfully,Tue Aug 31 11:19:41 WAT 2021,GET,https://ibrokang.com/css/site2.css,200,OK,148,347,1142,,Comment
+Successfully,Tue Aug 31 11:19:42 WAT 2021,GET,https://ibrokang.com/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA,200,OK,122,359,35,,
+Successfully,Tue Aug 31 11:19:42 WAT 2021,GET,https://ibrokang.com/assets/plugins/jquery.min.js,200,OK,1107,362,97166,,"Script, Comment"
+Successfully,Tue Aug 31 11:19:43 WAT 2021,GET,https://ibrokang.com/assets/plugins/bootstrap/popper.min.js,200,OK,246,362,18996,,Comment
+Successfully,Tue Aug 31 11:19:43 WAT 2021,GET,https://ibrokang.com/assets/plugins/bootstrap/bootstrap.min.js,200,OK,617,362,58078,,"Hidden, Comment"
+Successfully,Tue Aug 31 11:19:44 WAT 2021,GET,https://ibrokang.com/assets/plugins/imagesloaded.pkgd.min.js,200,OK,1035,361,5600,,Comment
+Successfully,Tue Aug 31 11:19:45 WAT 2021,GET,https://ibrokang.com/assets/plugins/owl-carousel/owl.carousel.min.js,200,OK,710,362,44348,,Comment
+Successfully,Tue Aug 31 11:19:45 WAT 2021,GET,https://ibrokang.com/assets/js/functions.min.js,200,OK,798,362,12640,,
+Not Text,Tue Aug 31 11:19:46 WAT 2021,GET,https://ibrokang.com/assets/images/Group%201.png,200,OK,515,349,33422,,
+Not Text,Tue Aug 31 11:19:47 WAT 2021,GET,https://ibrokang.com/assets/images/adult-communication-desk-1181605.jpg,200,OK,1070,350,74309,,Comment
+Not Text,Tue Aug 31 11:19:48 WAT 2021,GET,https://ibrokang.com/assets/images/tamarcus-brown-T3uKisfmABY-unsplash.jpg,200,OK,1765,351,132939,,Comment
+Not Text,Tue Aug 31 11:19:50 WAT 2021,GET,https://ibrokang.com/assets/images/achievement-3814909_1280.jpg,200,OK,757,351,125568,,
+Successfully,Tue Aug 31 11:19:50 WAT 2021,GET,https://ibrokang.com/TermsAndConditions,200,OK,255,248,44514,,"Script, Comment"
+Successfully,Tue Aug 31 11:19:50 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=0&terms=on,200,OK,253,248,22828,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:51 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=1&terms=on,200,OK,352,248,23006,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:51 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=2&terms=on,200,OK,247,248,23009,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:51 WAT 2021,GET,https://ibrokang.com/Register/Index?productSelected=3&terms=on,200,OK,243,248,23023,,"Form, Password, Script, Comment"
+Successfully,Tue Aug 31 11:19:51 WAT 2021,GET,https://ibrokang.com/Account/ForgotPassword,200,OK,2049,415,8864,,"Form, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Not Text,Tue Aug 31 11:19:51 WAT 2021,GET,https://ibrokang.com/assets/img/apple-icon.png,200,OK,1952,348,2446,,
+Not Text,Tue Aug 31 11:19:53 WAT 2021,GET,https://ibrokang.com/assets/img/favicon.png,200,OK,171,348,2761,,
+Successfully,Tue Aug 31 11:19:53 WAT 2021,GET,https://ibrokang.com/assets/css/bootstrap.min.css,200,OK,865,349,124923,,Comment
+Successfully,Tue Aug 31 11:19:53 WAT 2021,GET,https://ibrokang.com/assets/css/now-ui-dashboard.css?v=1.0.1,200,OK,3492,349,347412,,"Upload, Comment"
+Successfully,Tue Aug 31 11:19:54 WAT 2021,GET,https://ibrokang.com/assets/demo/demo.css,200,OK,126,346,837,,
+Successfully,Tue Aug 31 11:19:54 WAT 2021,GET,https://ibrokang.com/assets/js/core/jquery.min.js,200,OK,494,362,86663,,"Form, Script, Comment"
+Successfully,Tue Aug 31 11:19:55 WAT 2021,GET,https://ibrokang.com/assets/js/core/popper.min.js,200,OK,140,362,18998,,Comment
+Successfully,Tue Aug 31 11:19:55 WAT 2021,GET,https://ibrokang.com/assets/js/core/bootstrap.min.js,200,OK,490,362,51150,,Comment
+Successfully,Tue Aug 31 11:19:56 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/perfect-scrollbar.jquery.min.js,200,OK,245,362,25335,,Comment
+Successfully,Tue Aug 31 11:19:56 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/moment.min.js,200,OK,615,362,51471,,Comment
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/bootstrap-switch.js,200,OK,249,362,27602,,Comment
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/sweetalert2.min.js,200,OK,267,362,24461,,"Hidden, Upload"
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/jquery.validate.min.js,200,OK,381,362,23266,,"Password, Hidden, Upload, Comment"
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/jquery.bootstrap-wizard.js,200,OK,131,362,12387,,Comment
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/bootstrap-selectpicker.js,200,OK,717,362,70749,,Comment
+Successfully,Tue Aug 31 11:19:57 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/bootstrap-datetimepicker.js,200,OK,964,363,110337,,Comment
+Successfully,Tue Aug 31 11:19:58 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/jquery.dataTables.min.js,200,OK,1047,363,167868,,Comment
+Successfully,Tue Aug 31 11:19:58 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/bootstrap-tagsinput.js,200,OK,904,362,22338,,Comment
+Successfully,Tue Aug 31 11:19:59 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/jasny-bootstrap.min.js,200,OK,141,362,16785,,"Hidden, Comment"
+Successfully,Tue Aug 31 11:19:59 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/fullcalendar.min.js,200,OK,1698,363,172371,,Comment
+Successfully,Tue Aug 31 11:19:59 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/jquery-jvectormap.js,200,OK,2164,363,254002,,Comment
+Successfully,Tue Aug 31 11:20:01 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/nouislider.min.js,200,OK,250,362,20026,,Comment
+Successfully,Tue Aug 31 11:20:01 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/chartjs.min.js,200,OK,1106,363,157854,,Comment
+Successfully,Tue Aug 31 11:20:01 WAT 2021,GET,https://ibrokang.com/assets/js/plugins/bootstrap-notify.js,200,OK,142,362,14841,,Comment
+Successfully,Tue Aug 31 11:20:01 WAT 2021,GET,https://ibrokang.com/assets/js/now-ui-dashboard.js?v=1.0.1,200,OK,914,362,10636,,Comment
+Successfully,Tue Aug 31 11:20:02 WAT 2021,GET,https://ibrokang.com/assets/demo/demo.js,200,OK,431,362,48996,,
+Successfully,Tue Aug 31 11:20:02 WAT 2021,POST,https://ibrokang.com/Account/Login,200,OK,1919,415,10510,,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 11:20:03 WAT 2021,POST,https://ibrokang.com/Account/ForgotPassword,302,Found,1663,391,0,,SetCookie
+Successfully,Tue Aug 31 11:20:04 WAT 2021,GET,https://ibrokang.com/Account/ForgotPasswordConfirmation,200,OK,1549,362,7894,,"Script, SetCookie, Comment"
+Successfully,Tue Aug 31 11:20:04 WAT 2021,POST,https://ibrokang.com/Account/Login,200,OK,362,415,10510,,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Successfully,Tue Aug 31 11:20:05 WAT 2021,POST,https://ibrokang.com/Account/Login,200,OK,626,415,10510,,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
+Max Depth,Tue Aug 31 11:20:05 WAT 2021,POST,https://ibrokang.com/Account/Login,200,OK,167,415,10510,,"Form, Password, Hidden, Script, SetCookie, Comment, AntiCSRF"
